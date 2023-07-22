@@ -1,6 +1,6 @@
 # Setup 
 
-- clone the this repo
+- clone this repo
 - goto `chat-gpt4-vercel` project 
 - create `.env.local` environment
 - add your goto `openai` create api key add it to `OPENAI_API_KEY`
